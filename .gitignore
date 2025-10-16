@@ -1,0 +1,9 @@
+
+# api 
+
+/api/__pycache__/
+/api/model/__pycache__
+/api/model/career_bot_gpt2NewEntry
+
+# frontend
+/frontend/chatbot/node_modules/
