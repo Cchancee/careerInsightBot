@@ -6,4 +6,5 @@
 /api/model/career_bot_gpt2NewEntry
 
 # frontend
-/frontend/chatbot/node_modules/
+/frontend/node_modules/
+/frontend/build/
