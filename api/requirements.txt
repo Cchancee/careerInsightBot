@@ -1,5 +1,7 @@
 fastapi
-pydanctic
-transformers
-torch
 uvicorn
+pydantic
+transformers==4.41.2
+torch==2.3.1+cpu --find-links https://download.pytorch.org/whl/cpu
+numpy
+accelerate
